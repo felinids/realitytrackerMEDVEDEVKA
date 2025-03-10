@@ -5,6 +5,7 @@
 This fork  provides an easy way to view PR Trackers for all relevant maps, including those that were deleted in the last few years,
 and the related github.io also fixes some issues with the yossizap.github.io instance (broken menu).
 
+# The original projects description:
 .PRDEMO files are created by the realitytracker.py script. The goal is to provide as much data as possible to analyse matches for learning and administration without launching the game to use DICE's Battlerecoder.
 
 It was originally a [C# project](https://www.youtube.com/watch?v=IqPZUMPv2ss&feature=youtu.be&t=447) that automatically uploaded server recordings to youtube but it was decided to make it a portable web application.
